@@ -1,0 +1,24 @@
+{
+  "name": "crowlor",
+  "version": "1.0.0",
+  "description": "## Setup",
+  "main": "run.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lnquy065/crowlor.git"
+  },
+  "author": "crowlor team",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lnquy065/crowlor/issues"
+  },
+  "homepage": "https://github.com/lnquy065/crowlor#readme",
+  "dependencies": {
+    "axios": "^0.19.2",
+    "jsdom": "^16.2.1",
+    "mongodb": "^3.5.5"
+  }
+}
