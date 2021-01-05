@@ -17,7 +17,7 @@
   },
   "homepage": "https://github.com/lnquy065/crowlor#readme",
   "dependencies": {
-    "axios": "^0.19.2",
+    "axios": "^0.21.1",
     "jsdom": "^16.2.1",
     "mongodb": "^3.5.5"
   }
